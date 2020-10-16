@@ -1,0 +1,6 @@
+Library
+Temp
+Obj
+*.csproj
+CustomUnityLogger.sln
+.vscode/settings.json
